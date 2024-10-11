@@ -1,0 +1,27 @@
+hr {
+    border: 1px solid rgb(115, 115, 239);
+}
+.mycart {
+    width: 340px !important;
+}
+textarea {
+    resize: none !important;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link {
+    display: flex;
+    justify-content: start;
+    gap: 0 0.7rem;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: var(--bs-blue);
+}
+i {
+    margin-left: 3px;
+}
